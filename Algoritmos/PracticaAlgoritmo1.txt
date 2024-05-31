@@ -1,0 +1,25 @@
+Vamos a empezar a trabajar con pseudocodigo
+
+1_ El usuario quiere saber cuantas letras tiene una palabra
+
+Algoritmo:
+1. Solicitar al usuario que ingrese una palabra
+2_ Contar cantidad de letras en la palabra ingresada
+3_ Mostrar por pantalla la cantidad de letras
+
+Pseudocodigo:
+
+Inicio del programa
+    // paso 1: Solicitar entrada al user
+    Mostrar mensaje: "ingrese una palabra"
+    leer palabra_ingresada y asignar valor
+definir variable palabra_ingresada con la lectura de la entrada
+
+
+// paso 2: contar la cantidad de letras
+definir cantidad_letras = longitud de la palabra_ingresada
+
+paso 3: mostrar al usuario el resultado
+mostrar mensaje: "la palabra ingresada tiene cantidad_letras "letras"
+
+fin del programa
